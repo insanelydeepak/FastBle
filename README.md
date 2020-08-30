@@ -23,8 +23,7 @@ Android Bluetooth Low Energy
 
 # Changes in this version :: 
   - Updated to use new API instead deprecated API.
-  - If your app targets Android 9 (API level 28) or lower, you can declare the ACCESS_COARSE_LOCATION permission instead of the 
-ACCESS_FINE_LOCATION permission
+  -  If your app targets Android 10 use  ACCESS_FINE_LOCATION permission in manifest and turn on location otherwise it don't scan devices around .
 
 
 
