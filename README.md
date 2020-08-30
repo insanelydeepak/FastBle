@@ -21,6 +21,14 @@ Android Bluetooth Low Energy
 ![Preview_4](https://github.com/Jasonchenlijian/FastBle/raw/master/preview/new_4.png)
 
 
+# Changes in this version :: 
+  - Updated to use new API instead deprecated API.
+  - If your app targets Android 9 (API level 28) or lower, you can declare the ACCESS_COARSE_LOCATION permission instead of the 
+ACCESS_FINE_LOCATION permission
+
+
+
+
 ### APK
 If you want to quickly preview all the functions, you can download APK as a test tool directly.
 
